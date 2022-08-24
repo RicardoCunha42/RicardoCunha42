@@ -2,7 +2,7 @@
 
 ## Bio
 
-Estou começando agora minha jornada no mundo da programação através de Java, Javascript. HTML e CSS (em breve React!). 
+Estou começando agora minha jornada no mundo da programação através de Java, Javascript, HTML e CSS. 
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![javascript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
@@ -11,4 +11,4 @@ Estou começando agora minha jornada no mundo da programação através de Java,
 
 # projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardocunha42&repo=devweek.github.io)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardocunha42&repo=Site-BarbeariaAlura)](https://github.com/anuraghazra/github-readme-stats)
