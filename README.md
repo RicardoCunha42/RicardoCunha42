@@ -11,6 +11,4 @@ Estou começando agora minha jornada no mundo da programação através de Java,
 
 # projetos
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardocunha42&repo=MUDI.Application-API-Rest)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardocunha42&repo=CRUD-spring-data)](https://github.com/anuraghazra/github-readme-stats)
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardocunha42&repo=MUDI.Application-API-Rest)](https://github.com/anuraghazra/github-readme-stats)[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardocunha42&repo=CRUD-spring-data)](https://github.com/anuraghazra/github-readme-stats)
