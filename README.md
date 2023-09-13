@@ -13,4 +13,3 @@ Ex-lawyer turned software developer, mostly enjoy backend java/spring and a bit 
 # projetos
 
 https://onde-e-o-date-front.vercel.app/
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardocunha42&repo=MUDI.Application-API-Rest)](https://github.com/RicardoCunha42/MUDI.Application-API-Rest) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=ricardocunha42&repo=CRUD-spring-data)](https://github.com/RicardoCunha42/CRUD-spring-data)
