@@ -2,7 +2,7 @@
 
 ## Bio
 
-Ex-lawyer turned software developer, mostly enjoy backend java/spring and a bit of Angular, but currently been studing Kotlin/Android which is I'm loving.
+Ex-lawyer turned software developer, mostly enjoy backend java/spring and a bit of Angular, but currently been studing Kotlin/Android which I'm quite liking.
 
 ![java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
 ![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
